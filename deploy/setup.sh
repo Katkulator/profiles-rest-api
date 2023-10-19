@@ -5,7 +5,7 @@ set -e
 # TODO: Set to URL of git repo.
 PROJECT_GIT_URL='git@github.com:Katkulator/profiles-rest-api.git'
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+PROJECT_BASE_PATH='/user/local/apps/profiles-rest-api'
 
 # Set Ubuntu Language
 locale-gen en_GB.UTF-8
